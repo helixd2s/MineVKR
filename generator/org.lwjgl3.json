@@ -2,15 +2,15 @@
 	"formatVersion": 1,
 	"libraries": [
 		{
-			"name": "org.lwjgl:lwjgl-glfw:3.2.3",
+			"name": "org.lwjgl:lwjgl-glfw:3.3.0",
 			"downloads": {
-				"sha1": "5e520d5c290c8b012545a8d34fa5db5ab051ea53",
-				"size": 107999,
-				"url": "file://F:/Games/MultiMC/libraries/org/lwjgl/lwjgl-glfw/3.2.3/lwjgl-glfw-3.2.3.jar"
+				"sha1": "0c41e6dff8c44fc7dcacda7c39c9297e7d100548",
+				"size": 117915,
+				"url": "file:///C:/MultiMC/libraries/org/lwjgl/lwjgl-glfw/3.3.0/lwjgl-glfw-3.3.0.jar"
 			}
 		},
 		{
-			"name": "org.lwjgl:lwjgl-glfw:3.2.3",
+			"name": "org.lwjgl:lwjgl-glfw:3.3.0",
 			"natives": {
 				"linux": "natives-linux",
 				"osx": "natives-macos",
@@ -18,39 +18,39 @@
 			},
 			"downloads": {
 				"artifact": {
-					"sha1": "5e520d5c290c8b012545a8d34fa5db5ab051ea53",
-					"size": 107999,
-					"url": "file://F:/Games/MultiMC/libraries/org/lwjgl/lwjgl-glfw/3.2.3/lwjgl-glfw-3.2.3.jar"
+					"sha1": "0c41e6dff8c44fc7dcacda7c39c9297e7d100548",
+					"size": 117915,
+					"url": "file:///C:/MultiMC/libraries/org/lwjgl/lwjgl-glfw/3.3.0/lwjgl-glfw-3.3.0.jar"
 				},
 				"classifiers": {
 					"natives-linux": {
-						"sha1": "62b044d9b0a057444bef2ab70b9afc288ec09dba",
-						"size": 159371,
-						"url": "file://F:/Games/MultiMC/libraries/org/lwjgl/lwjgl-glfw/3.2.3/lwjgl-glfw-3.2.3-natives-linux.jar"
+						"sha1": "bf297bc777de6ce71de16d092d53b1c115ca64b4",
+						"size": 163111,
+						"url": "file:///C:/MultiMC/libraries/org/lwjgl/lwjgl-glfw/3.3.0/lwjgl-glfw-3.3.0-natives-linux.jar"
 					},
 					"natives-osx": {
-						"sha1": "0058661272eacb9116336c88b4aadccf1f17c09b",
-						"size": 66201,
-						"url": "file://F:/Games/MultiMC/libraries/org/lwjgl/lwjgl-glfw/3.2.3/lwjgl-glfw-3.2.3-natives-macos.jar"
+						"sha1": "8d6ca11b00adf53e3af542300bb4e5516dc714c2",
+						"size": 68170,
+						"url": "file:///C:/MultiMC/libraries/org/lwjgl/lwjgl-glfw/3.3.0/lwjgl-glfw-3.3.0-natives-macos.jar"
 					},
 					"natives-windows": {
-						"sha1": "b4d8a3477cdc2edcf7a5f1e822926be846223f54",
-						"size": 139707,
-						"url": "file://F:/Games/MultiMC/libraries/org/lwjgl/lwjgl-glfw/3.2.3/lwjgl-glfw-3.2.3-natives-windows.jar"
+						"sha1": "d671e47ed5869d19ab808a1c884fe46f12b2b8b6",
+						"size": 68827,
+						"url": "file:///C:/MultiMC/libraries/org/lwjgl/lwjgl-glfw/3.3.0/lwjgl-glfw-3.3.0-natives-windows.jar"
 					}
 				}
 			}
 		},
 		{
-			"name": "org.lwjgl:lwjgl-jemalloc:3.2.3",
+			"name": "org.lwjgl:lwjgl-jemalloc:3.3.0",
 			"downloads": {
-				"sha1": "b6fd0932171ba3f2eaa4547beddca3a3e645342d",
-				"size": 34130,
-				"url": "file://F:/Games/MultiMC/libraries/org/lwjgl/lwjgl-jemalloc/3.2.3/lwjgl-jemalloc-3.2.3.jar"
+				"sha1": "8b756cd284b4f7ba9706069725b90ad393a65599",
+				"size": 36676,
+				"url": "file:///C:/MultiMC/libraries/org/lwjgl/lwjgl-jemalloc/3.3.0/lwjgl-jemalloc-3.3.0.jar"
 			}
 		},
 		{
-			"name": "org.lwjgl:lwjgl-jemalloc:3.2.3",
+			"name": "org.lwjgl:lwjgl-jemalloc:3.3.0",
 			"natives": {
 				"linux": "natives-linux",
 				"osx": "natives-macos",
@@ -58,39 +58,39 @@
 			},
 			"downloads": {
 				"artifact": {
-					"sha1": "b6fd0932171ba3f2eaa4547beddca3a3e645342d",
-					"size": 34130,
-					"url": "file://F:/Games/MultiMC/libraries/org/lwjgl/lwjgl-jemalloc/3.2.3/lwjgl-jemalloc-3.2.3.jar"
+					"sha1": "8b756cd284b4f7ba9706069725b90ad393a65599",
+					"size": 36676,
+					"url": "file:///C:/MultiMC/libraries/org/lwjgl/lwjgl-jemalloc/3.3.0/lwjgl-jemalloc-3.3.0.jar"
 				},
 				"classifiers": {
 					"natives-linux": {
-						"sha1": "8d2dca364c11781de596fbcdee6782752e318cfb",
-						"size": 159556,
-						"url": "file://F:/Games/MultiMC/libraries/org/lwjgl/lwjgl-jemalloc/3.2.3/lwjgl-jemalloc-3.2.3-natives-linux.jar"
+						"sha1": "2fb0dcbb9364134eaf29268cb059ad5cb52b404b",
+						"size": 159578,
+						"url": "file:///C:/MultiMC/libraries/org/lwjgl/lwjgl-jemalloc/3.3.0/lwjgl-jemalloc-3.3.0-natives-linux.jar"
 					},
 					"natives-osx": {
-						"sha1": "d6ffcb4224d3ccd3c31bd80093f71e69a7133a6a",
-						"size": 118660,
-						"url": "file://F:/Games/MultiMC/libraries/org/lwjgl/lwjgl-jemalloc/3.2.3/lwjgl-jemalloc-3.2.3-natives-macos.jar"
+						"sha1": "1350e645766386b8e07f5730824ffaebc47ac4dc",
+						"size": 117036,
+						"url": "file:///C:/MultiMC/libraries/org/lwjgl/lwjgl-jemalloc/3.3.0/lwjgl-jemalloc-3.3.0-natives-macos.jar"
 					},
 					"natives-windows": {
-						"sha1": "3423fd0d4c7c1916c8f46b2075c4c2df02f22675",
-						"size": 124043,
-						"url": "file://F:/Games/MultiMC/libraries/org/lwjgl/lwjgl-jemalloc/3.2.3/lwjgl-jemalloc-3.2.3-natives-windows.jar"
+						"sha1": "5f9260774cc1cc5cea61e06feeda0e390d40008d",
+						"size": 126902,
+						"url": "file:///C:/MultiMC/libraries/org/lwjgl/lwjgl-jemalloc/3.3.0/lwjgl-jemalloc-3.3.0-natives-windows.jar"
 					}
 				}
 			}
 		},
 		{
-			"name": "org.lwjgl:lwjgl-openal:3.2.3",
+			"name": "org.lwjgl:lwjgl-openal:3.3.0",
 			"downloads": {
-				"sha1": "106742e805803ab9eab8e343f0fb31a3d263903c",
-				"size": 79432,
-				"url": "file://F:/Games/MultiMC/libraries/org/lwjgl/lwjgl-openal/3.2.3/lwjgl-openal-3.2.3.jar"
+				"sha1": "6e8e9d7ae6d64c96f35618354401788a848d9748",
+				"size": 88053,
+				"url": "file:///C:/MultiMC/libraries/org/lwjgl/lwjgl-openal/3.3.0/lwjgl-openal-3.3.0.jar"
 			}
 		},
 		{
-			"name": "org.lwjgl:lwjgl-openal:3.2.3",
+			"name": "org.lwjgl:lwjgl-openal:3.3.0",
 			"natives": {
 				"linux": "natives-linux",
 				"osx": "natives-macos",
@@ -98,39 +98,39 @@
 			},
 			"downloads": {
 				"artifact": {
-					"sha1": "106742e805803ab9eab8e343f0fb31a3d263903c",
-					"size": 79432,
-					"url": "file://F:/Games/MultiMC/libraries/org/lwjgl/lwjgl-openal/3.2.3/lwjgl-openal-3.2.3.jar"
+					"sha1": "6e8e9d7ae6d64c96f35618354401788a848d9748",
+					"size": 88053,
+					"url": "file:///C:/MultiMC/libraries/org/lwjgl/lwjgl-openal/3.3.0/lwjgl-openal-3.3.0.jar"
 				},
 				"classifiers": {
 					"natives-linux": {
-						"sha1": "869ddd9dbbf92a7d1be7f5942ca0adbde068d999",
-						"size": 591787,
-						"url": "file://F:/Games/MultiMC/libraries/org/lwjgl/lwjgl-openal/3.2.3/lwjgl-openal-3.2.3-natives-linux.jar"
+						"sha1": "c04ac26a9308e6991f1b7a675df754af72078ffe",
+						"size": 473337,
+						"url": "file:///C:/MultiMC/libraries/org/lwjgl/lwjgl-openal/3.3.0/lwjgl-openal-3.3.0-natives-linux.jar"
 					},
 					"natives-osx": {
-						"sha1": "67ddd2a090589dfe6c4659d7f8b125b43f7b822b",
-						"size": 528718,
-						"url": "file://F:/Games/MultiMC/libraries/org/lwjgl/lwjgl-openal/3.2.3/lwjgl-openal-3.2.3-natives-macos.jar"
+						"sha1": "2f618e1a222d08a528e20a6e93fb74bb99270566",
+						"size": 397183,
+						"url": "file:///C:/MultiMC/libraries/org/lwjgl/lwjgl-openal/3.3.0/lwjgl-openal-3.3.0-natives-macos.jar"
 					},
 					"natives-windows": {
-						"sha1": "ec898e8ce11b5886f4f532a1536283ef2817758d",
-						"size": 648458,
-						"url": "file://F:/Games/MultiMC/libraries/org/lwjgl/lwjgl-openal/3.2.3/lwjgl-openal-3.2.3-natives-windows.jar"
+						"sha1": "c921b6392affde35b44dcdbb6b6f63ac3296b6db",
+						"size": 574966,
+						"url": "file:///C:/MultiMC/libraries/org/lwjgl/lwjgl-openal/3.3.0/lwjgl-openal-3.3.0-natives-windows.jar"
 					}
 				}
 			}
 		},
 		{
-			"name": "org.lwjgl:lwjgl-opengl:3.2.3",
+			"name": "org.lwjgl:lwjgl-opengl:3.3.0",
 			"downloads": {
-				"sha1": "bdd534a323d0c8f54969b95e424b6ac8984f7d6e",
-				"size": 936589,
-				"url": "file://F:/Games/MultiMC/libraries/org/lwjgl/lwjgl-opengl/3.2.3/lwjgl-opengl-3.2.3.jar"
+				"sha1": "3aed63a7a8e158fd3e9d3e0a17358f38fe506a8c",
+				"size": 916567,
+				"url": "file:///C:/MultiMC/libraries/org/lwjgl/lwjgl-opengl/3.3.0/lwjgl-opengl-3.3.0.jar"
 			}
 		},
 		{
-			"name": "org.lwjgl:lwjgl-opengl:3.2.3",
+			"name": "org.lwjgl:lwjgl-opengl:3.3.0",
 			"natives": {
 				"linux": "natives-linux",
 				"osx": "natives-macos",
@@ -138,39 +138,39 @@
 			},
 			"downloads": {
 				"artifact": {
-					"sha1": "bdd534a323d0c8f54969b95e424b6ac8984f7d6e",
-					"size": 936589,
-					"url": "file://F:/Games/MultiMC/libraries/org/lwjgl/lwjgl-opengl/3.2.3/lwjgl-opengl-3.2.3.jar"
+					"sha1": "3aed63a7a8e158fd3e9d3e0a17358f38fe506a8c",
+					"size": 916567,
+					"url": "file:///C:/MultiMC/libraries/org/lwjgl/lwjgl-opengl/3.3.0/lwjgl-opengl-3.3.0.jar"
 				},
 				"classifiers": {
 					"natives-linux": {
-						"sha1": "7f14db5da9aa7951efe88993f519d7d38ad6e46b",
-						"size": 78750,
-						"url": "file://F:/Games/MultiMC/libraries/org/lwjgl/lwjgl-opengl/3.2.3/lwjgl-opengl-3.2.3-natives-linux.jar"
+						"sha1": "56c935a9bd0cccda0018b7e513513ec47f88b391",
+						"size": 79223,
+						"url": "file:///C:/MultiMC/libraries/org/lwjgl/lwjgl-opengl/3.3.0/lwjgl-opengl-3.3.0-natives-linux.jar"
 					},
 					"natives-osx": {
-						"sha1": "efa3326c11336d3e74c9c8aeceb2420328d28e6b",
-						"size": 40007,
-						"url": "file://F:/Games/MultiMC/libraries/org/lwjgl/lwjgl-opengl/3.2.3/lwjgl-opengl-3.2.3-natives-macos.jar"
+						"sha1": "48b8bbcae4ec047f903a4840fda0412b2262bd7b",
+						"size": 40446,
+						"url": "file:///C:/MultiMC/libraries/org/lwjgl/lwjgl-opengl/3.3.0/lwjgl-opengl-3.3.0-natives-macos.jar"
 					},
 					"natives-windows": {
-						"sha1": "e81cfc73ec8708e5e791ed770e4ec3edfc1bbab1",
-						"size": 90892,
-						"url": "file://F:/Games/MultiMC/libraries/org/lwjgl/lwjgl-opengl/3.2.3/lwjgl-opengl-3.2.3-natives-windows.jar"
+						"sha1": "2a709d7d5404c47d25eb434ddeba0fc89983ec9b",
+						"size": 91600,
+						"url": "file:///C:/MultiMC/libraries/org/lwjgl/lwjgl-opengl/3.3.0/lwjgl-opengl-3.3.0-natives-windows.jar"
 					}
 				}
 			}
 		},
 		{
-			"name": "org.lwjgl:lwjgl-stb:3.2.3",
+			"name": "org.lwjgl:lwjgl-stb:3.3.0",
 			"downloads": {
-				"sha1": "40eccaa4fa86fc815f2e17946a392fb5fdcc286a",
-				"size": 104049,
-				"url": "file://F:/Games/MultiMC/libraries/org/lwjgl/lwjgl-stb/3.2.3/lwjgl-stb-3.2.3.jar"
+				"sha1": "e7a20f5ef01143f621131670c10cfee343968b82",
+				"size": 111375,
+				"url": "file:///C:/MultiMC/libraries/org/lwjgl/lwjgl-stb/3.3.0/lwjgl-stb-3.3.0.jar"
 			}
 		},
 		{
-			"name": "org.lwjgl:lwjgl-stb:3.2.3",
+			"name": "org.lwjgl:lwjgl-stb:3.3.0",
 			"natives": {
 				"linux": "natives-linux",
 				"osx": "natives-macos",
@@ -178,39 +178,39 @@
 			},
 			"downloads": {
 				"artifact": {
-					"sha1": "40eccaa4fa86fc815f2e17946a392fb5fdcc286a",
-					"size": 104049,
-					"url": "file://F:/Games/MultiMC/libraries/org/lwjgl/lwjgl-stb/3.2.3/lwjgl-stb-3.2.3.jar"
+					"sha1": "e7a20f5ef01143f621131670c10cfee343968b82",
+					"size": 111375,
+					"url": "file:///C:/MultiMC/libraries/org/lwjgl/lwjgl-stb/3.3.0/lwjgl-stb-3.3.0.jar"
 				},
 				"classifiers": {
 					"natives-linux": {
-						"sha1": "189950254d81e9214b39cc656163541bf1accbba",
-						"size": 200448,
-						"url": "file://F:/Games/MultiMC/libraries/org/lwjgl/lwjgl-stb/3.2.3/lwjgl-stb-3.2.3-natives-linux.jar"
+						"sha1": "99d9c79fb77718393e1b4380537853249882fbfc",
+						"size": 203226,
+						"url": "file:///C:/MultiMC/libraries/org/lwjgl/lwjgl-stb/3.3.0/lwjgl-stb-3.3.0-natives-linux.jar"
 					},
 					"natives-osx": {
-						"sha1": "7eed8caff57c3f795af2e2d0049c43a6e4d56474",
-						"size": 195308,
-						"url": "file://F:/Games/MultiMC/libraries/org/lwjgl/lwjgl-stb/3.2.3/lwjgl-stb-3.2.3-natives-macos.jar"
+						"sha1": "2b5f3881272fe6cf6cce684bc8ff1e4d3f067e95",
+						"size": 203048,
+						"url": "file:///C:/MultiMC/libraries/org/lwjgl/lwjgl-stb/3.3.0/lwjgl-stb-3.3.0-natives-macos.jar"
 					},
 					"natives-windows": {
-						"sha1": "817b21ec286f0ba3dcedb56a3bd275e6a9345be9",
-						"size": 238474,
-						"url": "file://F:/Games/MultiMC/libraries/org/lwjgl/lwjgl-stb/3.2.3/lwjgl-stb-3.2.3-natives-windows.jar"
+						"sha1": "c71963c6018725fc4c0463d5ab30e97dee4c5679",
+						"size": 246770,
+						"url": "file:///C:/MultiMC/libraries/org/lwjgl/lwjgl-stb/3.3.0/lwjgl-stb-3.3.0-natives-windows.jar"
 					}
 				}
 			}
 		},
 		{
-			"name": "org.lwjgl:lwjgl-tinyfd:3.2.3",
+			"name": "org.lwjgl:lwjgl-tinyfd:3.3.0",
 			"downloads": {
-				"sha1": "d5edf89c7b6ca1ea20865a6ba0a09bfc5efb29c1",
-				"size": 6392,
-				"url": "file://F:/Games/MultiMC/libraries/org/lwjgl/lwjgl-tinyfd/3.2.3/lwjgl-tinyfd-3.2.3.jar"
+				"sha1": "a6b8fb51fac7b53101fcc1dce380766d76635b33",
+				"size": 6758,
+				"url": "file:///C:/MultiMC/libraries/org/lwjgl/lwjgl-tinyfd/3.3.0/lwjgl-tinyfd-3.3.0.jar"
 			}
 		},
 		{
-			"name": "org.lwjgl:lwjgl-tinyfd:3.2.3",
+			"name": "org.lwjgl:lwjgl-tinyfd:3.3.0",
 			"natives": {
 				"linux": "natives-linux",
 				"osx": "natives-macos",
@@ -218,39 +218,39 @@
 			},
 			"downloads": {
 				"artifact": {
-					"sha1": "d5edf89c7b6ca1ea20865a6ba0a09bfc5efb29c1",
-					"size": 6392,
-					"url": "file://F:/Games/MultiMC/libraries/org/lwjgl/lwjgl-tinyfd/3.2.3/lwjgl-tinyfd-3.2.3.jar"
+					"sha1": "a6b8fb51fac7b53101fcc1dce380766d76635b33",
+					"size": 6758,
+					"url": "file:///C:/MultiMC/libraries/org/lwjgl/lwjgl-tinyfd/3.3.0/lwjgl-tinyfd-3.3.0.jar"
 				},
 				"classifiers": {
 					"natives-linux": {
-						"sha1": "987c27496eb73a835df7618e3269dd7f37121f26",
-						"size": 38840,
-						"url": "file://F:/Games/MultiMC/libraries/org/lwjgl/lwjgl-tinyfd/3.2.3/lwjgl-tinyfd-3.2.3-natives-linux.jar"
+						"sha1": "9820fc66a1e67d88daa9f2b357fe4c3667fd937e",
+						"size": 43837,
+						"url": "file:///C:/MultiMC/libraries/org/lwjgl/lwjgl-tinyfd/3.3.0/lwjgl-tinyfd-3.3.0-natives-linux.jar"
 					},
 					"natives-osx": {
-						"sha1": "7cb8ad521749516ab87b47d737399845f1649eee",
-						"size": 42659,
-						"url": "file://F:/Games/MultiMC/libraries/org/lwjgl/lwjgl-tinyfd/3.2.3/lwjgl-tinyfd-3.2.3-natives-macos.jar"
+						"sha1": "2fe0a9c8e64a93998fee6e09dc71bc82a3ed4c50",
+						"size": 44618,
+						"url": "file:///C:/MultiMC/libraries/org/lwjgl/lwjgl-tinyfd/3.3.0/lwjgl-tinyfd-3.3.0-natives-macos.jar"
 					},
 					"natives-windows": {
-						"sha1": "d7d0760c9c904e7810fef96449ae03f33d4caee0",
-						"size": 112228,
-						"url": "file://F:/Games/MultiMC/libraries/org/lwjgl/lwjgl-tinyfd/3.2.3/lwjgl-tinyfd-3.2.3-natives-windows.jar"
+						"sha1": "25779741190a01dd92848e272104a05e892913a0",
+						"size": 117511,
+						"url": "file:///C:/MultiMC/libraries/org/lwjgl/lwjgl-tinyfd/3.3.0/lwjgl-tinyfd-3.3.0-natives-windows.jar"
 					}
 				}
 			}
 		},
 		{
-			"name": "org.lwjgl:lwjgl-tinyfd:3.2.3",
+			"name": "org.lwjgl:lwjgl-tinyfd:3.3.0",
 			"downloads": {
-				"sha1": "d5edf89c7b6ca1ea20865a6ba0a09bfc5efb29c1",
-				"size": 6392,
-				"url": "file://F:/Games/MultiMC/libraries/org/lwjgl/lwjgl-tinyfd/3.2.3/lwjgl-tinyfd-3.2.3.jar"
+				"sha1": "a6b8fb51fac7b53101fcc1dce380766d76635b33",
+				"size": 6758,
+				"url": "file:///C:/MultiMC/libraries/org/lwjgl/lwjgl-tinyfd/3.3.0/lwjgl-tinyfd-3.3.0.jar"
 			}
 		},
 		{
-			"name": "org.lwjgl:lwjgl-tinyfd:3.2.3",
+			"name": "org.lwjgl:lwjgl-tinyfd:3.3.0",
 			"natives": {
 				"linux": "natives-linux",
 				"osx": "natives-macos",
@@ -258,39 +258,39 @@
 			},
 			"downloads": {
 				"artifact": {
-					"sha1": "d5edf89c7b6ca1ea20865a6ba0a09bfc5efb29c1",
-					"size": 6392,
-					"url": "file://F:/Games/MultiMC/libraries/org/lwjgl/lwjgl-tinyfd/3.2.3/lwjgl-tinyfd-3.2.3.jar"
+					"sha1": "a6b8fb51fac7b53101fcc1dce380766d76635b33",
+					"size": 6758,
+					"url": "file:///C:/MultiMC/libraries/org/lwjgl/lwjgl-tinyfd/3.3.0/lwjgl-tinyfd-3.3.0.jar"
 				},
 				"classifiers": {
 					"natives-linux": {
-						"sha1": "987c27496eb73a835df7618e3269dd7f37121f26",
-						"size": 38840,
-						"url": "file://F:/Games/MultiMC/libraries/org/lwjgl/lwjgl-tinyfd/3.2.3/lwjgl-tinyfd-3.2.3-natives-linux.jar"
+						"sha1": "9820fc66a1e67d88daa9f2b357fe4c3667fd937e",
+						"size": 43837,
+						"url": "file:///C:/MultiMC/libraries/org/lwjgl/lwjgl-tinyfd/3.3.0/lwjgl-tinyfd-3.3.0-natives-linux.jar"
 					},
 					"natives-osx": {
-						"sha1": "7cb8ad521749516ab87b47d737399845f1649eee",
-						"size": 42659,
-						"url": "file://F:/Games/MultiMC/libraries/org/lwjgl/lwjgl-tinyfd/3.2.3/lwjgl-tinyfd-3.2.3-natives-macos.jar"
+						"sha1": "2fe0a9c8e64a93998fee6e09dc71bc82a3ed4c50",
+						"size": 44618,
+						"url": "file:///C:/MultiMC/libraries/org/lwjgl/lwjgl-tinyfd/3.3.0/lwjgl-tinyfd-3.3.0-natives-macos.jar"
 					},
 					"natives-windows": {
-						"sha1": "d7d0760c9c904e7810fef96449ae03f33d4caee0",
-						"size": 112228,
-						"url": "file://F:/Games/MultiMC/libraries/org/lwjgl/lwjgl-tinyfd/3.2.3/lwjgl-tinyfd-3.2.3-natives-windows.jar"
+						"sha1": "25779741190a01dd92848e272104a05e892913a0",
+						"size": 117511,
+						"url": "file:///C:/MultiMC/libraries/org/lwjgl/lwjgl-tinyfd/3.3.0/lwjgl-tinyfd-3.3.0-natives-windows.jar"
 					}
 				}
 			}
 		},
 		{
-			"name": "org.lwjgl:lwjgl:3.2.3",
+			"name": "org.lwjgl:lwjgl:3.3.0",
 			"downloads": {
-				"sha1": "17a59ba0fe8d474ec9dbe0d5db40d2cfe59c4c08",
-				"size": 552997,
-				"url": "file://F:/Games/MultiMC/libraries/org/lwjgl/lwjgl/3.2.3/lwjgl-3.2.3.jar"
+				"sha1": "58af756828308c0e6a2e481457de166a3d126c5a",
+				"size": 567426,
+				"url": "file:///C:/MultiMC/libraries/org/lwjgl/lwjgl/3.3.0/lwjgl-3.3.0.jar"
 			}
 		},
 		{
-			"name": "org.lwjgl:lwjgl:3.2.3",
+			"name": "org.lwjgl:lwjgl:3.3.0",
 			"natives": {
 				"linux": "natives-linux",
 				"osx": "natives-macos",
@@ -298,67 +298,67 @@
 			},
 			"downloads": {
 				"artifact": {
-					"sha1": "17a59ba0fe8d474ec9dbe0d5db40d2cfe59c4c08",
-					"size": 552997,
-					"url": "file://F:/Games/MultiMC/libraries/org/lwjgl/lwjgl/3.2.3/lwjgl-3.2.3.jar"
+					"sha1": "58af756828308c0e6a2e481457de166a3d126c5a",
+					"size": 567426,
+					"url": "file:///C:/MultiMC/libraries/org/lwjgl/lwjgl/3.3.0/lwjgl-3.3.0.jar"
 				},
 				"classifiers": {
 					"natives-linux": {
-						"sha1": "3d9d36c93446c7a1c90bc7aec8fa89c7988bf82b",
-						"size": 74932,
-						"url": "file://F:/Games/MultiMC/libraries/org/lwjgl/lwjgl/3.2.3/lwjgl-3.2.3-natives-linux.jar"
+						"sha1": "9953cea3d3e0b22b5dcf4cda547fdc6f65c79d77",
+						"size": 93433,
+						"url": "file:///C:/MultiMC/libraries/org/lwjgl/lwjgl/3.3.0/lwjgl-3.3.0-natives-linux.jar"
 					},
 					"natives-osx": {
-						"sha1": "35f506c5d368017a3cc5590da3d6d3a0760fb606",
-						"size": 39767,
-						"url": "file://F:/Games/MultiMC/libraries/org/lwjgl/lwjgl/3.2.3/lwjgl-3.2.3-natives-macos.jar"
+						"sha1": "3ba0f8d237389618be9003ffb0618c4d16f714c3",
+						"size": 53595,
+						"url": "file:///C:/MultiMC/libraries/org/lwjgl/lwjgl/3.3.0/lwjgl-3.3.0-natives-macos.jar"
 					},
 					"natives-windows": {
-						"sha1": "27f32cd35349684745951e04388e8e00d681cdcd",
-						"size": 135618,
-						"url": "file://F:/Games/MultiMC/libraries/org/lwjgl/lwjgl/3.2.3/lwjgl-3.2.3-natives-windows.jar"
+						"sha1": "c58df6dbd7a223c23a6f844603613907d17abb69",
+						"size": 151926,
+						"url": "file:///C:/MultiMC/libraries/org/lwjgl/lwjgl/3.3.0/lwjgl-3.3.0-natives-windows.jar"
 					}
 				}
 			}
 		},
 		{
-			"name": "org.lwjgl:lwjgl-vulkan:3.2.3",
+			"name": "org.lwjgl:lwjgl-vulkan:3.3.0",
 			"downloads": {
-				"sha1": "34a69f76173952424e85943a2dc7d9efd3d8ff9c",
-				"size": 2586790,
-				"url": "file://F:/Games/MultiMC/libraries/org/lwjgl/lwjgl-vulkan/3.2.3/lwjgl-vulkan-3.2.3.jar"
+				"sha1": "391d2388b4a59f80c4d94f1d3af29887d9e09324",
+				"size": 3372840,
+				"url": "file:///C:/MultiMC/libraries/org/lwjgl/lwjgl-vulkan/3.3.0/lwjgl-vulkan-3.3.0.jar"
 			}
 		},
 		{
-			"name": "org.lwjgl:lwjgl-vulkan:3.2.3",
+			"name": "org.lwjgl:lwjgl-vulkan:3.3.0",
 			"natives": {
 				"osx": "natives-macos"
 			},
 			"downloads": {
 				"artifact": {
-					"sha1": "34a69f76173952424e85943a2dc7d9efd3d8ff9c",
-					"size": 2586790,
-					"url": "file://F:/Games/MultiMC/libraries/org/lwjgl/lwjgl-vulkan/3.2.3/lwjgl-vulkan-3.2.3.jar"
+					"sha1": "391d2388b4a59f80c4d94f1d3af29887d9e09324",
+					"size": 3372840,
+					"url": "file:///C:/MultiMC/libraries/org/lwjgl/lwjgl-vulkan/3.3.0/lwjgl-vulkan-3.3.0.jar"
 				},
 				"classifiers": {
 					"natives-osx": {
-						"sha1": "46f70b20ccab76c3b23136a6088184e8a0af55bd",
-						"size": 1735089,
-						"url": "file://F:/Games/MultiMC/libraries/org/lwjgl/lwjgl-vulkan/3.2.3/lwjgl-vulkan-3.2.3-natives-macos.jar"
+						"sha1": "9f2bc2c3a2cf44f4f9a9717e7bb53f5f6644b1c1",
+						"size": 1886110,
+						"url": "file:///C:/MultiMC/libraries/org/lwjgl/lwjgl-vulkan/3.3.0/lwjgl-vulkan-3.3.0-natives-macos.jar"
 					}
 				}
 			}
 		},
 		{
-			"name": "org.lwjgl:lwjgl-vma:3.2.3",
+			"name": "org.lwjgl:lwjgl-vma:3.3.0",
 			"downloads": {
-				"sha1": "b8f6485a6e7e5785877474999e1e8451731bad09",
-				"size": 67727,
-				"url": "file://F:/Games/MultiMC/libraries/org/lwjgl/lwjgl-vma/3.2.3/lwjgl-vma-3.2.3.jar"
+				"sha1": "8e49a217aa94d3677507f4a229e470b1b66c13f0",
+				"size": 83379,
+				"url": "file:///C:/MultiMC/libraries/org/lwjgl/lwjgl-vma/3.3.0/lwjgl-vma-3.3.0.jar"
 			}
 		},
 		{
-			"name": "org.lwjgl:lwjgl-vma:3.2.3",
+			"name": "org.lwjgl:lwjgl-vma:3.3.0",
 			"natives": {
 				"linux": "natives-linux",
 				"osx": "natives-macos",
@@ -366,47 +366,27 @@
 			},
 			"downloads": {
 				"artifact": {
-					"sha1": "b8f6485a6e7e5785877474999e1e8451731bad09",
-					"size": 67727,
-					"url": "file://F:/Games/MultiMC/libraries/org/lwjgl/lwjgl-vma/3.2.3/lwjgl-vma-3.2.3.jar"
+					"sha1": "8e49a217aa94d3677507f4a229e470b1b66c13f0",
+					"size": 83379,
+					"url": "file:///C:/MultiMC/libraries/org/lwjgl/lwjgl-vma/3.3.0/lwjgl-vma-3.3.0.jar"
 				},
 				"classifiers": {
 					"natives-linux": {
-						"sha1": "ccdc829c7e5fac2f168c163259d160221a85bdb9",
-						"size": 62856,
-						"url": "file://F:/Games/MultiMC/libraries/org/lwjgl/lwjgl-vma/3.2.3/lwjgl-vma-3.2.3-natives-linux.jar"
+						"sha1": "1072818880b69d56d49b7bd31cd4b10bb1d573f0",
+						"size": 66762,
+						"url": "file:///C:/MultiMC/libraries/org/lwjgl/lwjgl-vma/3.3.0/lwjgl-vma-3.3.0-natives-linux.jar"
 					},
 					"natives-osx": {
-						"sha1": "6a6e027e4b0a60309c885f10c1855584397ded85",
-						"size": 66556,
-						"url": "file://F:/Games/MultiMC/libraries/org/lwjgl/lwjgl-vma/3.2.3/lwjgl-vma-3.2.3-natives-macos.jar"
+						"sha1": "b5558c961f45cbd601b61e85b697646e40d27eb0",
+						"size": 73070,
+						"url": "file:///C:/MultiMC/libraries/org/lwjgl/lwjgl-vma/3.3.0/lwjgl-vma-3.3.0-natives-macos.jar"
 					},
 					"natives-windows": {
-						"sha1": "e522dc95fc3236342776def8a7d2db5f36e22d62",
-						"size": 211381,
-						"url": "file://F:/Games/MultiMC/libraries/org/lwjgl/lwjgl-vma/3.2.3/lwjgl-vma-3.2.3-natives-windows.jar"
+						"sha1": "8c48bbffe0d559459d1fbf30846df39e1bc97273",
+						"size": 133196,
+						"url": "file:///C:/MultiMC/libraries/org/lwjgl/lwjgl-vma/3.3.0/lwjgl-vma-3.3.0-natives-windows.jar"
 					}
 				}
-			}
-		},
-		{
-			"name": "org.javacpp:javacpp:1.5.3",
-			"downloads": {
-				"sha1": "668ab99959670d883e6bce8d3dcc754c9e5f6a45",
-				"size": 447435,
-				"url": "file://F:/Games/MultiMC/libraries/org/javacpp/javacpp/1.5.3/javacpp-1.5.3.jar"
-			}
-		},
-		{
-			"name": "org.javacpp:javacpp:1.5.3",
-			"natives": {},
-			"downloads": {
-				"artifact": {
-					"sha1": "668ab99959670d883e6bce8d3dcc754c9e5f6a45",
-					"size": 447435,
-					"url": "file://F:/Games/MultiMC/libraries/org/javacpp/javacpp/1.5.3/javacpp-1.5.3.jar"
-				},
-				"classifiers": {}
 			}
 		}
 	],
@@ -414,6 +394,6 @@
 	"releaseTime": "2019-06-24T12:52:52+00:00",
 	"type": "release",
 	"uid": "org.lwjgl3",
-	"version": "3.2.3",
+	"version": "3.3.0",
 	"volatile": true
 }

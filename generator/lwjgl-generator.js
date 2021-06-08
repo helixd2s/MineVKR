@@ -1,4 +1,4 @@
-let lwjglVersion = "3.2.3";
+let lwjglVersion = "3.3.0";
 
 let lwjglLibraries = [
     {
@@ -80,10 +80,6 @@ let lwjglLibraries = [
             "osx": "natives-macos",
             "windows": "natives-windows"
         }
-    },
-    {
-        "name": `org.javacpp:javacpp:1.5.3`,
-        "natives": {}
     }
 ];
 
@@ -162,7 +158,7 @@ function generate(rpath) {
         let dpath = path.normalize(path.resolve(rpath + "/.." + "/" + dir + "/" + name + "/" + version + "/" + name + "-" + version + ".jar"));
         //let fpath = dpath + "/" + dir + name + "-" + version;
         //let fpath = dpath + "/" + dir + name;
-        let fpath = path.normalize(path.resolve(rpath + "/" + name + "/" + name + ".jar"));
+        let fpath = path.normalize(path.resolve(rpath + "/" + name + ".jar"));
         let fdata = fs.readFileSync(fpath);
         let sha1 = checksum(fdata);
         
@@ -174,7 +170,7 @@ function generate(rpath) {
             "artifact": {
                 "sha1": sha1,
                 "size": fdata.byteLength,
-                "url": "file://" + dpath.replace(/\\/g,"/")
+                "url": "file:///" + dpath.replace(/\\/g,"/")
             },
             "classifiers": {}
         };
@@ -185,7 +181,7 @@ function generate(rpath) {
                 "downloads": {
                     "sha1": sha1,
                     "size": fdata.byteLength,
-                    "url": "file://" + dpath.replace(/\\/g,"/")
+                    "url": "file:///" + dpath.replace(/\\/g,"/")
                 }
             });
         //}
@@ -195,7 +191,7 @@ function generate(rpath) {
             let suffix = lib.natives[nat];
             let dpath = path.normalize(path.resolve(rpath + "/.." + "/" + dir + "/" + name + "/" + version + "/" + name + "-" + version + "-" + suffix + ".jar"));
             //let fpath = dpath + "/" + dir + name + "-" + suffix;
-            let fpath = path.normalize(path.resolve(rpath + "/" + name + "/" + name + "-" + suffix + ".jar"));
+            let fpath = path.normalize(path.resolve(rpath + "/" + name + "-" + suffix + ".jar"));
             let fdata = fs.readFileSync(fpath);
             let sha1 = checksum(fdata);
             
@@ -204,7 +200,7 @@ function generate(rpath) {
             library.downloads.classifiers["natives-"+nat] = {
                 "sha1": sha1,
                 "size": fdata.byteLength,
-                "url": "file://" + dpath.replace(/\\/g,"/")
+                "url": "file:///" + dpath.replace(/\\/g,"/")
             };
         }
 
